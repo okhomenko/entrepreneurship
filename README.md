@@ -9,3 +9,8 @@ problem-solution fit, proposed MVP, and proposed funnels.
 business model refinement, and sales and marketing roadmapping.
 How to pitch the venture through a written analysis of 
 the business model canvas and a video of your investor pitch.
+
+### How to identify and develop great ideas into great companies
+### How to identify opprotunities based on real customer needs
+### Explore methods for developing solid business models for creation 
+of successful companies
